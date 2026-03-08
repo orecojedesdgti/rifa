@@ -1,0 +1,5 @@
+{
+  "name": "RifaExpress",
+  "description": "Sistema de gestión y compra de tickets para rifas con módulos de usuario y administrador.",
+  "requestFramePermissions": []
+}
